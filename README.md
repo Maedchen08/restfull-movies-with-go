@@ -112,8 +112,3 @@ status code: 200
 [Fiber] : <https://github.com/gofiber/fiber/>
 [Gorm] : <https://gorm.io/docs/>
 
-nb: 
-to do myhomework sql and data modelling, I make 2 repository to practice alone in understanding the material with and without using biolerplate, please check both of them and give me suggestions. 
-
-[without_biolerplate] : <https://github.com/Maedchen08/crud-movies.git>
-[with_boilerplate] : <https://github.com/Maedchen08/restfull-movies-with-go.git>
