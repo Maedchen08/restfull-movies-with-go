@@ -23,7 +23,7 @@ Access API via ```http://localhost:8080/{route}```
 
 1. POST ```/movie ```
 
-Authorization: Bearer {token} 
+
 
 Request Body: 
 ```
@@ -109,6 +109,9 @@ status code: 200
 * [Gorm] - Library untuk mendukung penggunaan SQL
 
 [Golang] : <https://golang.org/>
+
 [Fiber] : <https://github.com/gofiber/fiber/>
+
 [Gorm] : <https://gorm.io/docs/>
+
 
